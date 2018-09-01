@@ -1,0 +1,10 @@
+
+
+<div class="list-top">
+  <ul>
+    <li *ngFor="let hero of top">
+      <span>{{ hero.id }}</span>
+      <a href="#" routerLink="/hero/detail/{{hero.id}}">{{ hero.name }}</a>
+    </li>
+  </ul>
+</div>

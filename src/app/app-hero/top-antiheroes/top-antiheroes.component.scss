@@ -1,0 +1,26 @@
+
+.list-top{
+    ul{
+        list-style: none;
+        li{
+            display: block;
+            margin-bottom: 10px;
+
+            span{
+                display: inline-block;
+                padding: 3px 5px;
+                color: #fff;
+                background-color: #0078ff;
+                margin-right: 5px;
+            }
+
+            a{
+                color: #000;
+                display: inline-block;
+                padding: 3px 5px;
+                background-color: #ebebeb;
+                text-decoration: none;
+            }
+        }
+    }
+}

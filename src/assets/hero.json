@@ -1,0 +1,33 @@
+[
+    { 
+        "id": 1, 
+        "name" : "Deadpool", 
+        "description":"Deadpool is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s"
+    },
+    { 
+        "id": 2, 
+        "name" : "Hulk", 
+        "description":"Hulk is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s"
+    },
+    { 
+        "id": 3, 
+        "name" : "Magneto", 
+        "description":"Magneto is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s"
+    },
+    { 
+        "id": 4, 
+        "name" : "Ares", 
+        "description":"Ares is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s"
+    },
+    { 
+        "id": 5, 
+        "name" : "Venon", 
+        "description":"Venono is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s"
+    },
+    { 
+        "id": 6, 
+        "name" : "Bad Bunny", 
+        "description":"Bad Bunny is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s"
+    }
+ 
+]
